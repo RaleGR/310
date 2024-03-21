@@ -3,4 +3,6 @@
 int main()
 {
   printf("zdravo svete\n");
+  printf("zdravo svete\n");
+  printf("zdravo svete\n");
 }
